@@ -4,8 +4,23 @@ Captains Assistant files for Swords of Legends Online
 Special thanks to the Filthy Casuals alliance on NA for helping improve these events for our raids! <3
 
 Download all files in a zip file [here](https://github.com/jst4rgaming/ca-event-files/archive/refs/heads/main.zip)
+# Enabling CA in game
+* Left click this icon in-game below minimap
 
-# How to install
+![image](https://user-images.githubusercontent.com/72681555/138979573-24066161-6056-4799-964d-e0ce28166ff1.png)
+* Turn on everything in Boss Event Monitoring
+
+![image](https://user-images.githubusercontent.com/72681555/138980749-2eec249d-86c5-407f-9da5-e170863e5286.png)
+
+* Right click this icon in-game below minimap
+
+![image](https://user-images.githubusercontent.com/72681555/138979573-24066161-6056-4799-964d-e0ce28166ff1.png)
+
+* Turn on everything in Boss Event Management settings
+
+![image](https://user-images.githubusercontent.com/72681555/138980631-894c3de1-7e16-4006-8caf-2af34f98a4b0.png)
+
+# How to install/update events
 
 * Download [zip file](https://github.com/jst4rgaming/ca-event-files/archive/refs/heads/main.zip) or individual cen file
 * Right click this icon in-game below minimap
